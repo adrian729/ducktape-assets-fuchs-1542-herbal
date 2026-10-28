@@ -1,0 +1,48 @@
+# descriptive: find it and understand it
+id: abrotonum-foemina
+title: Abrotonum foemina, upright flowering stem
+description: A single tall upright stem rises from a short, many-branched root at the bottom; its lower half is bare and its upper half carries a narrow plume of side branches with finely divided leaves and small round button-like flower heads at the tips. Dark brown-black woodcut line work with no ground line, on a transparent background.
+type: illustration
+categories:
+  - botanical
+subjects:
+  - plant
+  - stem
+  - leaf
+  - flower
+  - root
+colors:
+  - black
+  - brown
+  - gray
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+usage_notes:
+  - Ink-only extraction, the lines are one dark brown-black and the alpha carries the ink density, so it sits on any light ground; on a dark ground it needs recolouring.
+  - Very tall and narrow (about 1:2.9); suits a margin or the side of a text column.
+display_width:
+  - 160
+  - 320
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: native-ink-extraction
+  institution: Universitätsbibliothek Basel
+  object_title: "Fuchs, De historia stirpium: Abrotonum foemina (scan [39])"
+  object_identifier: UBH Lo I 4; scan [39]; image 543716
+  date: "1542"
+  record_url: https://www.e-rara.ch/bau_1/content/pageview/543716
+  image_url: https://www.e-rara.ch/i3f/v20/543716/full/full/0/default.jpg
+  image_rights: LicenseRef-PDM
+  rights_url: https://www.e-rara.ch/bau_1/content/titleinfo/543675
+  source_sha256: bc2f6a0e334abea3ef495fce64eb6eafbd4bc652ff4cef0853c4486bc88e9567
+license: null

@@ -1,0 +1,48 @@
+# descriptive: find it and understand it
+id: plantago-maior
+title: Plantago maior, greater plantain
+description: Greater plantain (Plantago major), a rosette of six broad ribbed oval leaves on long stalks spreading left and right from a tangle of fibrous roots at the centre, with three tall narrow flower spikes rising from the middle; one leaf hangs down below the root. Dark brown-black woodcut line work with no ground line, on a transparent background.
+type: illustration
+categories:
+  - botanical
+subjects:
+  - plant
+  - plantain
+  - leaf
+  - flower
+  - root
+colors:
+  - black
+  - brown
+  - gray
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+usage_notes:
+  - Ink-only extraction, the lines are one dark brown-black and the alpha carries the ink density, so it sits on any light ground; on a dark ground it needs recolouring.
+  - The lowest leaf hangs below the root; crop it off at the root for a compact rosette with the spikes.
+display_width:
+  - 300
+  - 600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: native-ink-extraction
+  institution: Universitätsbibliothek Basel
+  object_title: "Fuchs, De historia stirpium: Plantago maior (scan [69])"
+  object_identifier: UBH Lo I 4; scan [69]; image 543746
+  date: "1542"
+  record_url: https://www.e-rara.ch/bau_1/content/pageview/543746
+  image_url: https://www.e-rara.ch/i3f/v20/543746/full/full/0/default.jpg
+  image_rights: LicenseRef-PDM
+  rights_url: https://www.e-rara.ch/bau_1/content/titleinfo/543675
+  source_sha256: 9fffe0fb98f331d2f41249ac9266f65223a52db0cf15004dfdd85d29318e1b20
+license: null

@@ -1,0 +1,50 @@
+# descriptive: find it and understand it
+id: alsine-media
+title: Alsine media, chickweed tuft
+description: Common chickweed (Stellaria media), a loose sprawling tuft of thin trailing stems that spread upward and outward from a small fibrous root at the bottom centre, set with pairs of small toothed oval leaves and tiny five-petalled flowers and buds at the tips; the tuft is wider at the top than at the root. Dark brown-black woodcut line work with no ground line, on a transparent background.
+type: illustration
+categories:
+  - botanical
+subjects:
+  - plant
+  - chickweed
+  - stem
+  - leaf
+  - flower
+  - root
+colors:
+  - black
+  - brown
+  - gray
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+usage_notes:
+  - Ink-only extraction, the lines are one dark brown-black and the alpha carries the ink density, so it sits on any light ground; on a dark ground it needs recolouring.
+  - The upper two thirds crop to a loose scatter of leafy stems without the root.
+display_width:
+  - 300
+  - 600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: A few stray scan specks sit beside the leaf tips, mostly at the right.
+master: master.png
+provenance:
+  method: native-ink-extraction
+  institution: Universitätsbibliothek Basel
+  object_title: "Fuchs, De historia stirpium: Alsine media (scan [54])"
+  object_identifier: UBH Lo I 4; scan [54]; image 543731
+  date: "1542"
+  record_url: https://www.e-rara.ch/bau_1/content/pageview/543731
+  image_url: https://www.e-rara.ch/i3f/v20/543731/full/full/0/default.jpg
+  image_rights: LicenseRef-PDM
+  rights_url: https://www.e-rara.ch/bau_1/content/titleinfo/543675
+  source_sha256: 42344af7b1741c70d0d5c1757f62e9770dc151f920de9cf46b2675499f1103e1
+license: null

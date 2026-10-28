@@ -1,0 +1,49 @@
+# descriptive: find it and understand it
+id: seriphium-absinthium
+title: Seriphium absinthium, wormwood bush
+description: A wormwood (Artemisia), three tall upright shoots rising from a thick twisted root at the lower right, each densely set from base to tip with finely divided feathery leaves; the shoots lean slightly apart and fill a tall rectangle with little open space. Dark brown-black woodcut line work with no ground line, on a transparent background.
+type: illustration
+categories:
+  - botanical
+subjects:
+  - plant
+  - wormwood
+  - stem
+  - leaf
+  - root
+colors:
+  - black
+  - brown
+  - gray
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+usage_notes:
+  - Ink-only extraction, the lines are one dark brown-black and the alpha carries the ink density, so it sits on any light ground; on a dark ground it needs recolouring.
+  - Dense foliage; reads as a textured block beside text rather than as a silhouette.
+display_width:
+  - 300
+  - 600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Three small round ink blots remain, on the upper-right shoot and near the base of the stems.
+master: master.png
+provenance:
+  method: native-ink-extraction
+  institution: Universitätsbibliothek Basel
+  object_title: "Fuchs, De historia stirpium: Seriphium absinthium (scan [34])"
+  object_identifier: UBH Lo I 4; scan [34]; image 543711
+  date: "1542"
+  record_url: https://www.e-rara.ch/bau_1/content/pageview/543711
+  image_url: https://www.e-rara.ch/i3f/v20/543711/full/full/0/default.jpg
+  image_rights: LicenseRef-PDM
+  rights_url: https://www.e-rara.ch/bau_1/content/titleinfo/543675
+  source_sha256: 88d05e173cf9b62d341b87609edc8bf752936d8b9c24e5f5377b0063d9f878f7
+license: null

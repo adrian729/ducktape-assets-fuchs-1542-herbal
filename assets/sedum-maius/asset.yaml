@@ -1,0 +1,50 @@
+# descriptive: find it and understand it
+id: sedum-maius
+title: Sedum maius, houseleek in flower
+description: Common houseleek (Sempervivum tectorum), a rosette of fleshy pointed leaves at the base over a thick root and trailing runners, from which a tall column-like stem densely clad in overlapping leaves rises and opens at the top into a crown of curled, spreading branches bearing many small star-shaped flowers; the whole reads as a symmetrical upright emblem. Dark brown-black woodcut line work with no ground line, on a transparent background.
+type: illustration
+categories:
+  - botanical
+  - floral
+subjects:
+  - plant
+  - houseleek
+  - stem
+  - leaf
+  - flower
+  - root
+colors:
+  - black
+  - brown
+  - gray
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+usage_notes:
+  - Ink-only extraction, the lines are one dark brown-black and the alpha carries the ink density, so it sits on any light ground; on a dark ground it needs recolouring.
+  - Keep root, rosette and flower crown together; the piece is built as one vertical emblem.
+display_width:
+  - 240
+  - 480
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: native-ink-extraction
+  institution: Universitätsbibliothek Basel
+  object_title: "Fuchs, De historia stirpium: Sedum maius (scan [64])"
+  object_identifier: UBH Lo I 4; scan [64]; image 543741
+  date: "1542"
+  record_url: https://www.e-rara.ch/bau_1/content/pageview/543741
+  image_url: https://www.e-rara.ch/i3f/v20/543741/full/full/0/default.jpg
+  image_rights: LicenseRef-PDM
+  rights_url: https://www.e-rara.ch/bau_1/content/titleinfo/543675
+  source_sha256: e17345ad0049579dca959043691e4f121b96a8812d4b498c497d56dc704e7c66
+license: null

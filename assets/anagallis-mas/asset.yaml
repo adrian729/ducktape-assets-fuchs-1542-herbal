@@ -1,0 +1,52 @@
+# descriptive: find it and understand it
+id: anagallis-mas
+title: Anagallis mas, pimpernel sprig
+description: Scarlet pimpernel (Anagallis mas, the red-flowered pimpernel), a trailing plant whose thin stems arch up and outward from a fibrous root at the lower left, carrying pairs of pointed oval leaves, open five-petalled flowers and many round buds and seed capsules on short stalks; the arching stems leave open space in the middle. Dark brown-black woodcut line work with no ground line, on a transparent background.
+type: illustration
+categories:
+  - botanical
+  - floral
+subjects:
+  - plant
+  - pimpernel
+  - stem
+  - leaf
+  - flower
+  - bud
+  - root
+colors:
+  - black
+  - brown
+  - gray
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+usage_notes:
+  - Ink-only extraction, the lines are one dark brown-black and the alpha carries the ink density, so it sits on any light ground; on a dark ground it needs recolouring.
+  - Nearly square, with the root tucked in the lower left; crops well to the upper arch of stems and flowers.
+display_width:
+  - 320
+  - 640
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: A few stray scan specks remain near the top edge and beside the flowers.
+master: master.png
+provenance:
+  method: native-ink-extraction
+  institution: Universitätsbibliothek Basel
+  object_title: "Fuchs, De historia stirpium: Anagallis mas (scan [50])"
+  object_identifier: UBH Lo I 4; scan [50]; image 543727
+  date: "1542"
+  record_url: https://www.e-rara.ch/bau_1/content/pageview/543727
+  image_url: https://www.e-rara.ch/i3f/v20/543727/full/full/0/default.jpg
+  image_rights: LicenseRef-PDM
+  rights_url: https://www.e-rara.ch/bau_1/content/titleinfo/543675
+  source_sha256: 9fbb1b54dd47b93720fc57d21921782ba484524cd7081a4ee3c3b6c16904670b
+license: null

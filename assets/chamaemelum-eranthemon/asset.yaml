@@ -1,0 +1,49 @@
+# descriptive: find it and understand it
+id: chamaemelum-eranthemon
+title: Chamaemelum eranthemon, flowering branch
+description: An upright branching plant with a long slender root that takes up the lower third, whorls of narrow linear leaves along the thin stems, and about a dozen five-petalled flowers with hanging, parted petals at the branch tips; the crown spreads wider than the stem below it. Dark brown-black woodcut line work with no ground line, on a transparent background.
+type: illustration
+categories:
+  - botanical
+  - floral
+subjects:
+  - plant
+  - stem
+  - leaf
+  - flower
+  - root
+colors:
+  - black
+  - brown
+  - gray
+facing: none
+composition: standalone
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+usage_notes:
+  - Ink-only extraction, the lines are one dark brown-black and the alpha carries the ink density, so it sits on any light ground; on a dark ground it needs recolouring.
+  - The long bare root can be cropped at the stem base for a shorter, airier piece.
+display_width:
+  - 280
+  - 560
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: native-ink-extraction
+  institution: Universitätsbibliothek Basel
+  object_title: "Fuchs, De historia stirpium: Chamaemelum eranthemon (scan [59])"
+  object_identifier: UBH Lo I 4; scan [59]; image 543736
+  date: "1542"
+  record_url: https://www.e-rara.ch/bau_1/content/pageview/543736
+  image_url: https://www.e-rara.ch/i3f/v20/543736/full/full/0/default.jpg
+  image_rights: LicenseRef-PDM
+  rights_url: https://www.e-rara.ch/bau_1/content/titleinfo/543675
+  source_sha256: e88e6fbf2a5ecff88b0f7fa3b39fb4ba0c9b89ba5e868e2c4442a7190fd9c2ef
+license: null
